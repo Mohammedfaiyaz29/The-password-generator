@@ -28,4 +28,4 @@ This is a straightforward Password Generator project created to strengthen my sk
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone https://github.com/Mohammedfaiyaz29/The-password-generator.git
